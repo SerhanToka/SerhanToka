@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SerhanToka
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Pyhton
+- 📫 How to reach me serhantoka0@gmail.com
